@@ -57,7 +57,7 @@ Building scalable, production-grade data systems for real-time and batch analyti
 ---
 
 ## 📫 Connect
-- LinkedIn: https://linkedin.com/in/aditya-singh  
+- LinkedIn: https://www.linkedin.com/in/aditya-singh-3434351b5 
 - Email: adityarocks8368990374@gmail.com  
 
 ---
