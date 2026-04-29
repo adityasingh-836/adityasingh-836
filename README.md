@@ -21,7 +21,6 @@ Building scalable, production-grade data systems for real-time and batch analyti
 - **Concepts:** ETL/ELT, Batch vs Streaming, Data Warehousing  
 
 ---
-
 ## 🏗️ Key Projects
 
 ### 🔥 Real-Time Data Lake & Analytics Pipeline *(Flagship)*
